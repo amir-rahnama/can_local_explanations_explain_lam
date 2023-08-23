@@ -26,6 +26,9 @@ In general, our experiments need to run in order:
 We have included a Jupyternotebook with the analysis of all our results in classification in tabular/Visual Analysis.ipynb and tabular/regression/Regression Data Analysis.ipynb. 
 
 
+# Factors
+In Sections 5.2.2 and 5.2.3 of our paper, we analyze factors that can affect the local accuracy of explanations. These experiments can be found under /factors for the synthetic usecases. For tabular datasets, these analysis are included in tabular/Visual Analysis.ipynb for classification models and tabular/regression/Regression Data Analysis.ipynb for regression models.
+
 # Robustness
 
 In Section 5.2.8 of our paper, we measure the robustness of local explanations for our classification by running /tabular/measure_explanations_robustness_v2.py and for regression models by running /tabular/regression/get_robustness_regression.py. 
