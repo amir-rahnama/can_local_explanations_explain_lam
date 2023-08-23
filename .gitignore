@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+tabular/data/
+tabular/regression/data/
+
