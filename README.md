@@ -18,7 +18,7 @@ Our experiments require you to have the following Python packages installed:
 
 In general, our experiments need to run in order: 
 
-1. Make sure that the datasets are in place. Download the data files from Google Drive and place them under /tabular/data and tabular/regression/data folders.
+1. Make sure that the datasets are in place. Download the data files from Google Drive (https://drive.google.com/drive/folders/1W3up3L6YI9E8kPIL4jriX16BP0RosP-Z?usp=sharing) and place them under /tabular/data and tabular/regression/data folders.
 2. Train the models on the datasets. Logistic Regression and Naive Bayes are trained via tabular/generate_data_train_models.py and Linear Regression via /tabular/regression/trail_all_models.py
 3. Get local explanations and ground truth importance scores. For Logitistic Regression and Naive Bayes, run tabular/get_all_explanations.py and for Linear Regression, run /tabular/regression/get_explanations.py
 4. Measure explanation accuracy. For Logitistic Regression and Naive Bayes, run tabular/measure_exp_accuracy.py and for Linear Regression, run /tabular/regression/measure_exp_acc.py
