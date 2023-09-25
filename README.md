@@ -1,8 +1,8 @@
-# Can Local Additive Explanations explain Linear Additive Models? 
+# Can Local Additive Explanations Explain Linear Additive Models? 
 
-This repository contains the code for our paper, "Can Local Additive Explanations explain Linear Additive Models" ECML 2023 (Journal Track). In our evaluation, we measure the local accuracy of LIME, KernelSHAP and Local Permutation Importance explanations when explaining linear additive models such as Linear and Logistic Regression and Naive Bayes models. 
+This repository contains the code for our paper, [Can Local Additive Explanations explain Linear Additive Models?](https://link.springer.com/article/10.1007/s10618-023-00971-3). ECML 2023 (Journal Track). In our evaluation, we measure the local accuracy of LIME, KernelSHAP, and Local Permutation Importance (LPI) explanations when explaining linear additive models such as Linear and Logistic Regression and Naive Bayes models. 
 
-The full paper can be accessed via URL. We have also provided a brief description of our study in a video format, which can be accessed on Youtube: URL. A simpler summary of our work that is more welcoming to people who are not experts in Explainable Machine Learning (XAI) is availale at URL.
+The presentation of our paper in ECML PKDD 2023 is accessible on [Youtube](https://youtu.be/np1UjSTGs_I?si=0bOOiRmDdGZlEw14). A more straightforward summary of our work that is more welcoming to people who are not experts in Explainable Machine Learning (XAI) is available at URL.
 
 # Prerequisits 
 
