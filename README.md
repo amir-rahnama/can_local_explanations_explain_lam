@@ -38,9 +38,9 @@ In Sections 5.2.2 and 5.2.3 of our paper, we analyze factors that can affect the
 
 # Robustness
 
-In Section 5.2.8 of our paper, we measure the robustness of local explanations for our classification by running /tabular/measure_explanations_robustness_v2.py and for regression models by running /tabular/regression/get_robustness_regression.py. 
+In Section 5.2.8 of our paper, we measure the robustness of local explanations for our classification by running ```/tabular/measure_explanations_robustness_v2.py``` and for regression models by running ```/tabular/regression/get_robustness_regression.py```. 
 
-The analysis for the robustness of local explanation in classification models can be found at /tabular/Robustness.ipynb and for regression models in tabular/regression/Regression Data Analysis.ipynb. 
+The analysis for the robustness of local explanation in classification models can be found at ```/tabular/Robustness.ipynb``` and for regression models in ```tabular/regression/Regression Data Analysis.ipynb```. 
 
 # Motivating Example 
 
