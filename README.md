@@ -1,10 +1,15 @@
 # Can Local Additive Explanations Explain Linear Additive Models? 
 
+
+## Summary
+
 This repository contains the code for our paper, "Can Local Additive Explanations Explain Linear Additive Models?" ECML PKDD 2023 (Journal Track). In our evaluation, we measure the local accuracy of LIME, KernelSHAP, and Local Permutation Importance (LPI) explanations when explaining linear additive models such as Linear and Logistic Regression and Naive Bayes models. Our study shows that the explanations of LIME and KernelSHAP are not accurate for linear classification models of Logistic Regression and Naive Bayes. The full paper can be accessed here: https://link.springer.com/article/10.1007/s10618-023-00971-3. 
 
 The presentation of our paper in ECML PKDD 2023 is accessible on YouTube: https://youtu.be/np1UjSTGs_I?si=0bOOiRmDdGZlEw14. 
 
-A more straightforward summary of our work that is more welcoming to people who are not experts in Explainable Machine Learning (XAI) is available at URL.
+A more straightforward summary of our work that is more welcoming to people who are not experts in Explainable Machine Learning (XAI) will be available soon.
+
+The poster we presented of the article is available at: 
 
 # Prerequisits 
 
@@ -42,6 +47,20 @@ The analysis for the robustness of local explanation in classification models ca
 For running our motivating example in Sectio 3, you need to clone the code for Seneca downloaded and included in your Python path:  https://github.com/riccotti/SyntheticExplanationGenerator. After that you can replicate the examples by running /motivating/Motivating Example.ipynb
 
 
+
+# Citation
+If you would like to cite our work, please use the following citation: 
+
+```latex
+@article{rahnama2023can,
+  title={Can local explanation techniques explain linear additive models?},
+  author={Rahnama, Amir Hossein Akhavan and B{\"u}tepage, Judith and Geurts, Pierre and Bostr{\"o}m, Henrik},
+  journal={Data Mining and Knowledge Discovery},
+  pages={1--44},
+  year={2023},
+  publisher={Springer}
+}
+```
 
  
 
