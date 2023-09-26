@@ -9,7 +9,7 @@ The presentation of our paper in ECML PKDD 2023 is accessible on YouTube: https:
 
 A more straightforward summary of our work that is more welcoming to people who are not experts in Explainable Machine Learning (XAI) will be available soon.
 
-The poster we presented of the article is available at: 
+The poster we presented at the conference is available at: https://github.com/amir-rahnama/can_local_explanations_explain_lam/blob/main/poster_ecml.pdf.
 
 # Prerequisits 
 
@@ -47,9 +47,8 @@ The analysis for the robustness of local explanation in classification models ca
 For running our motivating example in Sectio 3, you need to clone the code for Seneca downloaded and included in your Python path:  https://github.com/riccotti/SyntheticExplanationGenerator. After that you can replicate the examples by running /motivating/Motivating Example.ipynb
 
 
-
 # Citation
-If you would like to cite our work, please use the following citation: 
+If you would like to cite our work, please use the following bibtex citation: 
 
 ```latex
 @article{rahnama2023can,
